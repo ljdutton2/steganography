@@ -37,15 +37,15 @@ def decode_image(path_to_png):
 
 def encode_image(path_to_png):
     """
-    TODO: Add docstring and complete implementation.
+     Add docstring and complete implementation.
     """
-    pass
+    
 
 def write_text(text_to_write):
     """
-    TODO: Add docstring and complete implementation.
+    Add docstring and complete implementation.
     """
-    pass
+  
 
 if __name__ == "__main__":
     decode_image('encoded_image.png')
