@@ -83,4 +83,4 @@ def write_text(text_to_write, img_size):
   
 
 if __name__ == "__main__":
-   encode_image("sun_image.png", "hello sunshine")
+   encode_image("sun_image.png", "asdafjlkls")
